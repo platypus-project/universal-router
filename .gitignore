@@ -17,3 +17,7 @@ typechain-types
 #Hardhat files
 cache
 artifacts
+types
+.storage.json
+
+cache_hardhat
