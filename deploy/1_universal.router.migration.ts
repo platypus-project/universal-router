@@ -1,6 +1,6 @@
 import { Deployer, Reporter } from '@solarity/hardhat-migrate'
 
-import { UniversalRouter__factory } from '../types/ethers-contracts'
+import { UniversalRouter__factory } from '../typechain'
 
 import config from './default.config.json'
 
